@@ -31,3 +31,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 #### License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper
 attribution.
+
+## * About Me
+Hi there! I'm **Michal Fuska**. I'm a Supply Chain professional who is currently learning SQL programming, following the course created by YouTuber **Data With Baraa**. I want to find a new job and make the transition from Supply Chain to a more data-oriented role.
